@@ -1,9 +1,9 @@
 <h1 align="center">👋 E aí? Prazer, Eduardo</h1>
 
-<p align="center">
+<h6 align="center">
   💻 Técnico em Desenvolvimento de Sistemas | 🌍 Estudante de Programação
-</p><br><br>
-
+</h6>
+<br>
 <!--
 Já realizei/Have done:
  - Web Development (vanilla JS
